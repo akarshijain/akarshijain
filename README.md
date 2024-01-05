@@ -1,7 +1,5 @@
 # Hello World, I'm Akarshi! 👩‍💻
 
-## 🌟 Welcome to My Vibrant GitHub Profile!
-
 ### 👩‍🎓 About Me:
 - 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming.
 - 🚀 Experienced in Software Development, Data Engineering, and passionate about AI, Blockchain, and Web Development.
