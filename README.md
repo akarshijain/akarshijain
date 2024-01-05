@@ -2,14 +2,14 @@
 
 ### 👩‍🎓 About Me:
 - 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming.
-- 🚀 Experienced in Software Development, Data Engineering, and passionate about AI, Blockchain, and Web Development.
+- 🚀 Experienced in Software Development, Data Engineering, and passionate about AI and Machine Learning.
 - 💼 Internship experiences at Good Creator Co., Knowlarity, and Healing Touch NGO.
 - 🌱 My academic journey includes extensive coursework in Data Structures, Algorithms, Computer Architecture, Operating Systems, Database Management, Software Engineering, and more.
 - 📫 Reach out: [ajakarshi@gmail.com](mailto:ajakarshi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarshijain/)
 - 🌈 Pronouns: She/Her
 
 ### 📚 My College Journey:
-- **Learning**: Gained proficiency in a range of subjects including Deep Learning, Machine Learning, AI, NLP, Blockchain, and Cryptocurrency.
+- **Learning**: Gained proficiency in a range of subjects including Deep Learning, Machine Learning and Computer Vision.
 - **Research**: Published papers on EEG Visualization and the role of Yoga in neuropsychiatric disorders.
 - **Projects**: Hands-on experience in Brain Tumor Detection using CNN, Hand Gesture Metro Ticket Booking System, and more.
 
@@ -28,7 +28,7 @@
 ### 🎨 Extra-Curriculars & Hobbies:
 - Technical Head at Creation Labs Community, VIT Vellore.
 - Core Member of VIT Dance Club (2019 - 2021).
-- Hobbies include Cooking, Reading, and Travelling.
+- Hobbies include Gymming, Cooking, Reading, and Travelling.
 
 ### 📈 GitHub Insights:
 ![Akarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarshijain&show_icons=true&theme=buefy&bg_color=ffcccb)
