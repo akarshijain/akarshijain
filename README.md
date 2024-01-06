@@ -1,6 +1,6 @@
-# Hello World, I'm Akarshi! 👩‍💻
+# Hi there, I'm Akarshi! 👩🏻‍💻
 
-### 👩‍🎓 About Me:
+### 👩🏻‍🎓 About Me:
 - 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming.
 - 🚀 Experienced in Software Development, Data Engineering, and passionate about AI and Machine Learning.
 - 💼 Internship experiences at Good Creator Co., Knowlarity, and Healing Touch NGO.
