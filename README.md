@@ -1,7 +1,7 @@
 # Hi there, I'm Akarshi! 👩🏻‍💻
 
 ### 👩🏻‍🎓 About Me:
-- 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming.
+- 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming and AI.
 - 🚀 Experienced in Software Development, Data Engineering, and passionate about AI and Machine Learning.
 - 💼 Internship experiences at Good Creator Co., Knowlarity, and Healing Touch NGO.
 - 🌱 My academic journey includes extensive coursework in Data Structures, Algorithms, Computer Architecture, Operating Systems, Database Management, Software Engineering, and more.
