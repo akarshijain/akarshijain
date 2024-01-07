@@ -38,8 +38,6 @@
 ### 📈 GitHub Insights:
 ![Akarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarshijain&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 ### 🌍 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/Akarshi_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshijain/)
 [![GitHub](https://img.shields.io/badge/Akarshi_Jain-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarshijain)
