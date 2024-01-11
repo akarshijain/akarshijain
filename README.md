@@ -1,6 +1,8 @@
 # Hi there, I'm Akarshi! 👩🏻‍💻
 
 ### 👩🏻‍🎓 About Me:
+<img src="[URL_OF_YOUR_BITMOJI](https://github.com/akarshijain/akarshijain/blob/main/hey.png)" align="right" alt="Bitmoji Image" width="100">
+
 - 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming and AI.
 - 🚀 Experienced in Software Development, Data Engineering, and passionate about AI and Machine Learning.
 - 💼 Internship experiences at Good Creator Co., Knowlarity, and Healing Touch NGO.
