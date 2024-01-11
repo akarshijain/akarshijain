@@ -1,7 +1,7 @@
 # Hi there, I'm Akarshi! 👩🏻‍💻
 
 ### 👩🏻‍🎓 About Me:
-<img src="https://github.com/akarshijain/akarshijain/blob/main/hey.png" align="right" alt="Bitmoji Image" width="500" height="500">
+<img src="https://github.com/akarshijain/akarshijain/blob/main/hey.png" align="left" alt="Bitmoji Image" width="200" height="200">
 
 - 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming and AI.
 - 🚀 Experienced in Software Development, Data Engineering, and passionate about AI and Machine Learning.
