@@ -3,17 +3,17 @@
 ### 👩🏻‍🎓 About Me:
 <img src="https://github.com/akarshijain/akarshijain/blob/main/bitmoji.png" align="right" alt="Bitmoji Image" width="130" height="200">
 
-- 🎓 Master's Student in Computer Science at SUNY Buffalo, diving into Systems Programming and AI.
-- 🚀 Experienced in Software Development, Data Engineering, and passionate about AI and Machine Learning.
-- 💼 Internship experiences at Good Creator Co., Knowlarity, and Healing Touch NGO.
+- 🎓 Master's Student in Computer Science at SUNY Buffalo, specializing in Systems Programming and AI.
+- 🚀 Highly skilled in Software Engineering, Data Engineering, and AI, with a strong passion for Machine Learning.
+- 💼 Rich internship experience at Nix Inc., Good Creator Co., Gupshup, and Healing Touch NGO.
 - 🌱 My academic journey includes extensive coursework in Data Structures, Algorithms, Computer Architecture, Operating Systems, Database Management, Software Engineering, and more.
 - 📫 Reach out: [ajakarshi@gmail.com](mailto:ajakarshi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/akarshijain/)
 - 🌈 Pronouns: She/Her
 
 ### 📚 My College Journey:
-- **Learning**: Gained proficiency in a range of subjects including Deep Learning, Machine Learning and Computer Vision.
-- **Research**: Published papers on EEG Visualization and the role of Yoga in neuropsychiatric disorders.
-- **Projects**: Hands-on experience in Brain Tumor Detection using CNN, Hand Gesture Metro Ticket Booking System, and more.
+- **Learning**: Proficient in Deep Learning, Machine Learning, and Computer Vision.
+- **Research**: Authored papers on EEG Visualization and the therapeutic effects of Yoga on neuropsychiatric disorders.
+- **Projects**: Developed projects like an AI Air Hockey Game, Brain Tumor Detection using CNN, and more.
 
 ### 🚀 &nbsp;Tools & Technologies:
 <p align="left">
@@ -28,9 +28,10 @@
 </p>
 
 ### 🌟 Professional Experiences:
-- **Good Creator Co.**: Data Engineering Intern focusing on scalable data solutions.
-- **Knowlarity**: Software Development Intern, contributing to Speech Recognition platform enhancements.
-- **Healing Touch NGO**: Web Developer Intern, building websites and volunteering in health camps.
+- **Nix Inc.**: Software Engineer Intern leading major projects like website overhaul for enhanced scalability and user engagement.
+- **Good Creator Co.**: Data Engineer Intern, designed and implemented scalable data solutions.
+- **Gupshup**: Software Developer Intern, focused on enhancing Speech Recognition platforms.
+- **Healing Touch NGO**: Web Developer Intern, improved websites and participated in volunteering efforts.
 
 ### 🎨 Extra-Curriculars & Hobbies:
 - Technical Head at Creation Labs Community, VIT Vellore.
@@ -43,4 +44,3 @@
 ### 🌍 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/Akarshi_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshijain/)
 [![GitHub](https://img.shields.io/badge/Akarshi_Jain-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarshijain)
-
