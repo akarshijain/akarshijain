@@ -28,7 +28,9 @@
 </p>
 
 ### 📈 GitHub Insights:
-![Akarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshijain&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical)
+### 📈 GitHub Insights:
+**Total Commits:** 375 ![Total Commits](https://img.shields.io/badge/Total_Commits-375-brightgreen)
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
