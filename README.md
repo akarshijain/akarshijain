@@ -28,7 +28,6 @@
 </p>
 
 ### 📈 GitHub Insights:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshijain&layout=compact&langs_count=10&hide_border=true&theme=radical)
 ![Akarshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=akarshijain&show_icons=true&theme=radical)
 
 ### 🎗️ Causes I Support:
