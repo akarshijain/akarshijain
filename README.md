@@ -28,6 +28,7 @@
 </p>
 
 ### 📈 GitHub Insights:
+![Akarshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akarshijain&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=radical)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
