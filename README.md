@@ -28,7 +28,7 @@
 </p>
 
 ### 📈 GitHub Insights:
-![snake gif](https://github.com/{akarshijain}/{akarshijain}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/{akarshijain}/{akarshijain}/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### 🎗️ Causes I Support:
 - **Healing Touch NGO**: Contributed to technology solutions that enhanced digital outreach and fundraising during COVID-19, raising over $10K.
