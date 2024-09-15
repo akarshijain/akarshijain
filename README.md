@@ -28,8 +28,8 @@
 </p>
 
 ### 📈 GitHub Insights:
-### 📈 GitHub Insights:
-**Total Commits:** 375 ![Total Commits](https://img.shields.io/badge/Total_Commits-375-brightgreen)
+
+![Total Commits](https://img.shields.io/badge/Total_Commits-0-brightgreen)
 
 <picture>
   <source
