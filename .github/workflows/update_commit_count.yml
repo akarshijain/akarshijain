@@ -1,0 +1,26 @@
+name: Update Commit Count
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs at midnight UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Fetch commit count
+        id: get-commit-count
+        run: echo "::set-output name=commit_count::$(git rev-list --all --count)"
+
+      - name: Update README
+        run: |
+          COMMIT_COUNT=${{ steps.get-commit-count.outputs.commit_count }}
+          sed -i "s/![Total Commits].*/![Total Commits](https://img.shields.io/badge/Total_Commits-$COMMIT_COUNT-brightgreen)/" README.md
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git commit -am "Update commit count"
+          git push
