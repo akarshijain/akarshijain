@@ -24,12 +24,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ### 📈 GitHub Insights:
 
-![Total Commits](https://img.shields.io/badge/Total_Commits-0-brightgreen)
+![Total Commits](https://img.shields.io/badge/Total_Commits-608-brightgreen)
 
 <picture>
   <source
